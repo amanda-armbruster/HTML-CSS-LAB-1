@@ -1,0 +1,44 @@
+
+body{
+ font-family: 'Open Sans', sans-serif;   
+ background-color: #f9fafc;
+
+}
+
+.header{
+    font-size: 15px;
+
+}
+.company{
+    font-size: 15px;
+}
+.list{
+    list-style-type: none;  
+    padding: 0;  
+}
+
+.links{
+    text-decoration: none;
+    color: #69696a;
+    padding: 0;
+    margin: 10px 0;
+}
+
+a .links:visited {
+    color: #69696a
+}
+
+.button{
+    background-color: #000;
+    color: #FFF;
+    width: 100%;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.text{
+border-left: #69696a solid;
+color: #69696a;
+padding: 15px;
+}
+
